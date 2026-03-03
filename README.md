@@ -7,7 +7,7 @@ This project analyzes U.S. emissions data sourced from the Environmental Protect
 
 ### Dashboard Preview
 <div align="center">
-  <img src="C:\Users\marvi\OneDrive\Desktop\analytics projects\emissions_data.png" alt="EPA Emissions Analytics Dashboard" width="800"/>
+  <img src="assets/emissions_data.png" alt="EPA Emissions Analytics Dashboard" width="800"/>
   <p><em>Figure 1: EPA Emissions analysis dashboard showing geographic trends and correlations.</em></p>
 </div>
 
